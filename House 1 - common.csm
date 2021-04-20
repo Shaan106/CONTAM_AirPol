@@ -1,0 +1,15 @@
+Project:  C:\Users\Shaan\Desktop\Air pol research\Ballabhgarh Simulations\House 1 - common.prj
+
+1	contaminants
+Name	EffDens	MeanDiameter
+SO2	     0	     0
+
+Interactions with ambient.
+contaminant	mass from	mass to [kg]
+SO2	1.11949e+06	1.11818e+06
+
+Simulation time:
+2592000	seconds
+720	hours
+30	days
+

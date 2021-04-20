@@ -1,0 +1,212 @@
+Program:  C:\Program Files (x86)\NIST\CONTAM 3.4.0.1\CONTAMX3.exe
+  Version:  3.4.0.0 release 32 bit
+  Compiler: Visual C++ 1927
+  Created:  Thu Jan  7 21:41:58 2021
+Project (_file_name):  C:\Users\Shaan\Desktop\Air pol research\Ballabhgarh Simulations\House 1 - common.prj
+cwd: C:\Users\Shaan\Desktop\Air pol research\Ballabhgarh Simulations
+prj arg = C:\Users\Shaan\Desktop\Air pol research\Ballabhgarh Simulations\House 1 - common.prj
+_pdrive C:, _pdir \Users\Shaan\Desktop\Air pol research\Ballabhgarh Simulations\, _prjname House 1 - common, _pext .prj
+  Updated:  Mon Apr 19 00:04:52 2021
+Calling arguments (3):
+	argv[0] = C:\Program Files (x86)\NIST\CONTAM 3.4.0.1\CONTAMX3.exe
+	argv[1] = C:\Users\Shaan\Desktop\Air pol research\Ballabhgarh Simulations\House 1 - common.prj
+	argv[2] = -d
+
+Reading project file: C:\Users\Shaan\Desktop\Air pol research\Ballabhgarh Simulations\House 1 - common.prj
+Run Control section read successfully.
+Speices section read successfully.
+Level section read successfully.
+Day Schedule section read successfully.
+Week Schedule section read successfully.
+WindP Profile section read successfully.
+Kinetic Reaction section read successfully.
+Filter Element section read successfully.
+Filter section read successfully.
+Source/Sink Element section read successfully.
+Airflow Element section read successfully.
+Airflow Element section read successfully.
+Controls section read successfully.
+AHS section read successfully.
+Zone section read successfully.
+Zone CC section read successfully.
+Path section read successfully.
+Duct Junction section read successfully.
+Duct Junction CC section read successfully.
+Duct Segment section read successfully.
+Source/Sink section read successfully.
+Occupant Day Schedule section read successfully.
+Occupant Exposure section read successfully.
+Note section read successfully.
+Creating Envelope path lists:
+  7 envelope paths|terminals for WPC
+0 Duct Networks
+      network # 0 - jctns:
+
+  7 envelope paths|terminals|leaks for CSM/CEX
+WARNING  (file prj-data, line 1830)
+ 3 zones linked to only one other zone. See XLog file for details.
+  Check that inter-zone flow can occur.
+  zone1 zone2   T1 [C] T2 [C]
+      1     5   20.50  20.50
+      2     5   20.50  20.50
+      8     7   20.50  20.50
+
+Read PRJ : 44704 bytes allocated, 12340 freed, 32364 net
+Number of --
+      contaminants:    1
+     day schedules:    0
+    week schedules:    0
+           filters:    0
+         reactions:    0
+     wind profiles:    0
+   source elements:    0
+     flow elements:    6
+     airflow nodes:    9
+     airflow paths:   14
+      source/sinks:    0
+Airflow control --
+   cnvgSS: 1
+   tsdens: 0
+   densZP: 0
+   stackD: 0
+   dodMdt: 0
+
+Airflow Equations:
+   8 variable pressure nodes
+   1 constant pressure nodes
+  Number of equations: 9
+    Non-zero elements: 23
+Initial fill fraction: 0.284
+ Matrix Profile Analysis:
+      Average Profile: 1.00
+            Bandwidth: 4
+Determining equation reordering:
+Equations will not be reordered.
+
++---------+
+|*   *    |
+| *  *    |
+|  * *    |
+|   **    |
+|*******  |
+|    **+  |
+|    *+** |
+|      ** |
+|        *|
++---------+
+
+9 by 9 matrix, 23 non-zeroes, 2 fill
+
+ Skyline Matrix:
+     Number of rows: 8
+     Lower Triangle: 8 elements
+     Upper Triangle: 0 elements
+     Fill fraction: 0.250
+Solve nonlinear equations by Newton-Raphson with variable trust region.
+  relcnvg = 1e-05, abscnvg = 2e-06, itmax = 30
+Solve Jacobian SLAE by symmetric SKYline method.
+
+Airflow calculation data:
+ Node | source | eqn
+    1 :    1z :    1
+    2 :    2z :    2
+    3 :    3z :    3
+    4 :    4z :    4
+    5 :    5z :    5
+    6 :    6z :    6
+    7 :    7z :    7
+    8 :    8z :    8
+    9 :    0z :    9
+  [z = zone, j = junction, t = terminal]
+ Link numbers vs. path & duct numbers:
+    1 -   10:    1p    2p    3p    4p    5p    6p    7p    8p    9p   10p
+   11 -   20:   11p   12p   13p   14p
+  [p = path, d = duct, t = terminal, l = leak]
+
+Trace Species Mass Transfer Equations:
+
+Set up Mf matrix:
+   0 boundary layer sink nodes
+   0 deposition/resuspension nodes
+   8 variable Mf zone nodes
+   0 variable Mf jctn nodes
+   1 constant Mf zone nodes
+   1 contaminants
+  Number of equations: 9
+    Non-zero elements: 31
+Initial fill fraction: 0.383
+ Matrix Profile Analysis:
+      Average Profile: 1.00
+            Bandwidth: 4
+Solve simultaneous linear equations by non-symmetric SKYline method.
+Determining equation reordering:
+Equations will not be reordered.
+
++---------+
+|*   *    |
+| *  *    |
+|  * *   *|
+|   **   *|
+|******* *|
+|    **+ *|
+|    *+**+|
+|      **+|
+|  ****++*|
++---------+
+
+9 by 9 matrix, 31 non-zeroes, 6 fill
+
+ Skyline Matrix:
+     Number of rows: 8
+     Lower Triangle: 8 elements
+     Upper Triangle: 8 elements
+     Fill fraction: 0.375
+
+Trace contaminants
+ Node | source |  SO2
+    1 :    1z :    1
+    2 :    2z :    2
+    3 :    3z :    3
+    4 :    4z :    4
+    5 :    5z :    5
+    6 :    6z :    6
+    7 :    7z :    7
+    8 :    8z :    8
+    9 :    0z :    9
+  [z = zone, j = junction, t = terminal]
+Arrays: 52612 bytes allocated, 17868 freed, 34744 net
+Start: 52724 bytes allocated, 17980 freed, 34744 net
+Running steady-state initialization:
+ DATE: Jan01   time: 00:00:00
+End Steady-state Initialization
+       9 calls to FillAf()
+       5 calls to luf_sky_s()
+
+Solving mass transport system with trapezoidal solver 
+
+set_urst_init():
+  nzone 8, npath 14, nctm 1, njct 0, ndct 0
+  ncss+nbls+ndvr 0, nctrl 0, date0 1, date1 30
+  SizeData 704
+
+    8640 time steps
+    8640 time step iterations
+    8644 calls to SolveAf()
+    8649 calls to FillAf()
+       5 calls to luf_sky_s()
+       5 calls to lus_sky_s()
+    8640 calls to solve_Mft()
+    8640 calls to luf_sky_n()
+    8640 calls to lus_sky_n()
+
+NR its. :    0    1    2    3
+JfacBins: 8642    1    0    1
+
+rangeDWC: 0 lam, 0 trns, 0 turbulent
+
+Maximum air exchange rate: ~4.5 ACH in zone 3 at 00:05:00 on Jan01
+Maximum gage pressure: 0.0 Pa in zone 6 at 00:05:00 on Jan01
+
+End: 53068 bytes allocated, 18324 freed, 34744 net
+Final: 53068 bytes allocated, 53068 freed, 0 net
+Simulation completed successfully.

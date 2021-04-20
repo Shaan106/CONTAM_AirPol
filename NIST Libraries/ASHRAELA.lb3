@@ -1,0 +1,556 @@
+Selected items from 1997 ASHRAE Fundamentals, Chapter 25, Table 3
+flow|duct elements:
+184
+1 23 plr_leak1 CERL_RAV
+Ceiling penetration, recessed lights, best estimate
+ 1.9181e-007 0.0011487 0.65 1 4 0.001 0 0 2 2 2 0
+2 23 plr_leak1 CERL_RMN
+Ceiling penetrations, recessed lights, minimum
+ 1.7264e-008 0.000172305 0.65 1 4 0.00015 0 0 2 2 2 0
+3 23 plr_leak1 CERL_RMX
+Ceiling penetration, recessed lights, maximum
+ 4.91862e-007 0.00241227 0.65 1 4 0.0021 0 0 2 2 2 0
+4 23 plr_leak1 CEWF_RAV
+Ceiling penetration, whole house fan, best estimate
+ 4.62327e-007 0.0022974 0.65 1 4 0.002 0 0 2 2 2 0
+5 23 plr_leak1 CEWF_RMN
+Ceiling penetration, whole house fan, minimum
+ 1.87377e-008 0.000183792 0.65 1 4 0.00016 0 0 2 2 2 0
+6 23 plr_leak1 CEWF_RMX
+Ceiling penetration, whole house fan, maximum
+ 4.91862e-007 0.00241227 0.65 1 4 0.0021 0 0 2 2 2 0
+7 23 plr_leak3 CE_RAV
+General ceiling - best estimate.
+ 2.17591e-008 0.000206766 0.65 1 4 0 0 0.00018 2 2 2 0
+8 23 plr_leak3 CE_RMN
+General ceiling - minimum value.
+ 7.6508e-009 9.07472e-005 0.65 1 4 0 0 7.9e-005 2 2 2 0
+9 23 plr_leak3 CE_RMX
+General ceiling - maximum value.
+ 3.81231e-008 0.000321636 0.65 1 4 0 0 0.00028 2 2 2 0
+10 23 plr_leak1 CH_RAV
+Chimney, best estimate
+ 7.40904e-007 0.00333123 0.65 1 4 0.0029 0 0 2 2 2 0
+11 23 plr_leak1 CH_RMN
+Chimney, minimum
+ 4.91862e-007 0.00241227 0.65 1 4 0.0021 0 0 2 2 2 0
+12 23 plr_leak1 CH_RMX
+Chimney, maximum
+ 9.74874e-007 0.00413531 0.65 1 4 0.0036 0 0 2 2 2 0
+13 23 plr_leak1 DRATCSNW_RAV
+Attic/crawl space door, not weatherstripped - best estimate.
+ 7.7348e-007 0.0034461 0.65 1 4 0.003 0 0 2 2 2 0
+14 23 plr_leak1 DRATCSNW_RMN
+Attic/crawl space door, not weatherstripped - minimum value.
+ 1.9181e-007 0.0011487 0.65 1 4 0.001 0 0 2 2 2 0
+15 23 plr_leak1 DRATCSNW_RMX
+Attic/crawl space door, not weatherstripped - maximum value.
+ 1.00937e-006 0.00425018 0.65 1 4 0.0037 0 0 2 2 2 0
+16 23 plr_leak1 DRATCSWE_RAV
+Attic/crawl space door, weatherstripped - best estimate.
+ 4.04457e-007 0.00206766 0.65 1 4 0.0018 0 0 2 2 2 0
+17 23 plr_leak1 DRATCSWE_RMN
+Attic/crawl space door, weatherstripped - minimum value
+ 1.44501e-007 0.000918959 0.65 1 4 0.0008 0 0 2 2 2 0
+18 23 plr_leak1 DRATCSWE_RMX
+Attic/crawl space door, weatherstripped - maximum value.
+ 4.18769e-007 0.00212509 0.65 1 4 0.00185 0 0 2 2 2 0
+19 23 plr_leak1 DRATFDNW_RAV
+Attic fold down door, not weatherstripped - best estimate.
+ 1.25766e-006 0.00505427 0.65 1 4 0.0044 0 0 2 2 2 0
+20 23 plr_leak1 DRATFDNW_RMN
+Attic fold down door, not weatherstripped - minimum value.
+ 5.52063e-007 0.00264201 0.65 1 4 0.0023 0 0 2 2 2 0
+21 23 plr_leak1 DRATFDNW_RMX
+Attic fold down door, not weatherstripped - maximum value.
+ 2.94419e-006 0.00987881 0.65 1 4 0.0086 0 0 2 2 2 0
+22 23 plr_leak1 DRATFDWE_RAV
+Attic fold down door, weatherstripped - best estimate.
+ 5.21778e-007 0.00252714 0.65 1 4 0.0022 0 0 2 2 2 0
+23 23 plr_leak1 DRATFDWE_RMN
+Attic fold down door, weatherstripped - minimum value.
+ 2.93997e-007 0.00160818 0.65 1 4 0.0014 0 0 2 2 2 0
+24 23 plr_leak1 DRATFDWE_RMX
+Attic fold down door, weatherstripped - maximum value.
+ 1.22149e-006 0.0049394 0.65 1 4 0.0043 0 0 2 2 2 0
+25 23 plr_leak3 DRDBNW_RAV
+Door, double, not weatherstripped
+ 2.16476e-007 0.00126357 0.65 1 4 0 0 0.0011 2 2 2 0
+26 23 plr_leak3 DRDBNW_RMN
+Door, double, not weatherstripped
+ 1.21974e-007 0.000804089 0.65 1 4 0 0 0.0007 2 2 2 0
+27 23 plr_leak3 DRDBNW_RMX
+Door, double, not weatherstripped
+ 5.21778e-007 0.00252714 0.65 1 4 0 0 0.0022 2 2 2 0
+28 23 plr_leak3 DRDBWE_RAV
+Door, double, weatherstripped
+ 1.44501e-007 0.000918959 0.65 1 4 0 0 0.0008 2 2 2 0
+29 23 plr_leak3 DRDBWE_RMN
+Door, double, weatherstripped
+ 4.1612e-008 0.00034461 0.65 1 4 0 0 0.0003 2 2 2 0
+30 23 plr_leak3 DRDBWE_RMX
+Door, double, weatherstripped
+ 5.52063e-007 0.00264201 0.65 1 4 0 0 0.0023 2 2 2 0
+31 23 plr_leak1 DREL_CAV
+Passenger elevator door - best estimate. (Commercial)
+ 1.86684e-009 2.98662e-005 0.65 1 4 2.6e-005 0 0 2 2 2 0
+32 23 plr_leak1 DREL_CMN
+Passenger elevator door - minimum value.  (Commercial)
+ 8.50905e-010 1.60818e-005 0.65 1 4 1.4e-005 0 0 2 2 2 0
+33 23 plr_leak1 DREL_CMX
+Passenger elevator door - maximum value (Commercial)
+ 2.72244e-009 4.02044e-005 0.65 1 4 3.5e-005 0 0 2 2 2 0
+34 23 plr_leak2 DRMS_RAV
+Door, mail slot, best estimate
+ 5.99507e-008 0.000459479 0.65 1 4 0 0.0004 0 2 2 2 0
+35 23 plr_leak3 DRPTSLAR_RAV
+Door, sliding, exterior glass patio, per area, best estimate
+ 8.98116e-008 0.000631784 0.65 1 4 0 0 0.00055 2 2 2 0
+36 23 plr_leak3 DRPTSLAR_RMN
+Door, sliding, exterior glass patio, per area, minimum
+ 5.3959e-009 6.89219e-005 0.65 1 4 0 0 6e-005 2 2 2 0
+37 23 plr_leak3 DRPTSLAR_RMX
+Door, sliding, exterior glass patio, per area, maximum
+ 3.20902e-007 0.00172305 0.65 1 4 0 0 0.0015 2 2 2 0
+38 23 plr_leak1 DRPTSLUN_RAV
+Door, sliding, exterior glass patio, per unit, best estimate
+ 5.21778e-007 0.00252714 0.65 1 4 0.0022 0 0 2 2 2 0
+39 23 plr_leak1 DRPTSLUN_RMN
+Door, sliding, exterior glass patio, per unit, minimum
+ 4.1612e-008 0.00034461 0.65 1 4 0.0003 0 0 2 2 2 0
+40 23 plr_leak1 DRPTSLUN_RMX
+Door, sliding, exterior glass patio, per unit, maximum
+ 1.86434e-006 0.00689219 0.65 1 4 0.006 0 0 2 2 2 0
+41 23 plr_leak1 DRSINW-RMN
+Door, single, not weatherstripped, minimum
+ 2.41753e-007 0.00137844 0.65 1 4 0.0012 0 0 2 2 2 0
+42 23 plr_leak1 DRSINW_RAV
+Door, single, not weatherstripped, best estimate
+ 4.91862e-007 0.00241227 0.65 1 4 0.0021 0 0 2 2 2 0
+43 23 plr_leak1 DRSINW_RMX
+Door, single, not weatherstripped, maximum
+ 1.59274e-006 0.0060881 0.65 1 4 0.0053 0 0 2 2 2 0
+44 23 plr_leak1 DRSIWE_RAV
+Door, single, weatherstripped, best estimate
+ 2.41753e-007 0.00137844 0.65 1 4 0.0012 0 0 2 2 2 0
+45 23 plr_leak1 DRSIWE_RMN
+Door, single, weatherstripped, minimum
+ 5.99507e-008 0.000459479 0.65 1 4 0.0004 0 0 2 2 2 0
+46 23 plr_leak1 DRSIWE_RMX
+Door, single, weatherstripped, maximum
+ 6.76663e-007 0.00310149 0.65 1 4 0.0027 0 0 2 2 2 0
+47 23 plr_leak1 DRSMDE_RAV
+Door, storm (difference between with and without), best estimate
+ 1.00299e-007 0.000689219 0.65 1 4 0.0006 0 0 2 2 2 0
+48 23 plr_leak1 DRSMDE_RMN
+Door, storm (difference betweeen with and without), minimum
+ 4.1612e-008 0.00034461 0.65 1 4 0.0003 0 0 2 2 2 0
+49 23 plr_leak1 DRSMDE_RMX
+Door, storm (difference between with and without), maximum
+ 1.04561e-007 0.000712193 0.65 1 4 0.00062 0 0 2 2 2 0
+50 23 plr_leak2 DR_RAV
+Door, general, best estimate
+ 2.33379e-009 3.56096e-005 0.65 1 4 0 3.1e-005 0 2 2 2 0
+51 23 plr_leak2 DR_RMN
+Door, general, minimum
+ 1.59782e-009 2.64201e-005 0.65 1 4 0 2.3e-005 0 2 2 2 0
+52 23 plr_leak2 DR_RMX
+Door, general, maximum
+ 3.74531e-009 5.16914e-005 0.65 1 4 0 4.5e-005 0 2 2 2 0
+53 23 plr_leak3 FLCSNODW_RAV
+Floors over crawl spaces, without ductwork, best estimate
+ 2.45572e-008 0.000227442 0.65 1 4 0 0 0.000198 2 2 2 0
+54 23 plr_leak3 FLCSYEDW_RAV
+Floors over crawl spaces, with ductwork, best estimate
+ 2.8883e-008 0.000258457 0.65 1 4 0 0 0.000225 2 2 2 0
+55 23 plr_leak3 FLCS_RAV
+General floors over crawl spaces - best estimate
+ 2.80708e-008 0.000252714 0.65 1 4 0 0 0.00022 2 2 2 0
+56 23 plr_leak3 FLCS_RMN
+General floors over crawl spaces - minimum value
+ 3.22525e-009 4.59479e-005 0.65 1 4 0 0 4e-005 2 2 2 0
+57 23 plr_leak3 FLCS_RMX
+General floors over crawl spaces - maximum value
+ 7.75639e-008 0.000562862 0.65 1 4 0 0 0.00049 2 2 2 0
+58 23 plr_leak3 FPDACL_RAV
+Fireplace, with damper closed, best estimate
+ 1.22149e-006 0.0049394 0.65 1 4 0 0 0.0043 2 2 2 0
+59 23 plr_leak3 FPDACL_RMN
+Fireplace, with damper closed, minimum
+ 1.9181e-007 0.0011487 0.65 1 4 0 0 0.001 2 2 2 0
+60 23 plr_leak3 FPDACL_RMX
+Fireplace, with damper closed, maximum
+ 3.20731e-006 0.010568 0.65 1 4 0 0 0.0092 2 2 2 0
+61 23 plr_leak3 FPDAOP_RAV
+Fireplace, with damper open, best estimate
+ 1.74844e-005 0.0402044 0.65 1 4 0 0 0.035 2 2 2 0
+62 23 plr_leak3 FPDAOP_RMN
+Fireplace, with damper open, minimum
+ 5.71369e-006 0.0166561 0.65 1 4 0 0 0.0145 2 2 2 0
+63 23 plr_leak3 FPDAOP_RMX
+Fireplace, with damper open, maximum
+ 1.94081e-005 0.0436505 0.65 1 4 0 0 0.038 2 2 2 0
+64 23 plr_leak3 FPGLDR_RAV
+Fireplace, with glass doors, best estimate
+ 1.11436e-006 0.00459479 0.65 1 4 0 0 0.004 2 2 2 0
+65 23 plr_leak3 FPGLDR_RMN
+Fireplace, with glass doors, minimum
+ 5.99507e-008 0.000459479 0.65 1 4 0 0 0.0004 2 2 2 0
+66 23 plr_leak3 FPGLDR_RMX
+Fireplace, with glass doors, maximum
+ 1.11436e-006 0.00459479 0.65 1 4 0 0 0.004 2 2 2 0
+67 23 plr_leak3 FRDRMACA_RAV
+Door frame, masonry, caulked, best estimate
+ 1.03191e-008 0.00011487 0.65 1 4 0 0 1e-004 2 2 2 0
+68 23 plr_leak3 FRDRMACA_RMN
+Door frame, masonry, caulked, minimum
+ 2.23866e-009 3.4461e-005 0.65 1 4 0 0 3e-005 2 2 2 0
+69 23 plr_leak3 FRDRMACA_RMX
+Door frame, masonry, caulked,maximum
+ 1.03191e-008 0.00011487 0.65 1 4 0 0 1e-004 2 2 2 0
+70 23 plr_leak3 FRDRMAUC_RAV
+Door frame, masonry, not caulked, best estimate
+ 7.95785e-008 0.000574349 0.65 1 4 0 0 0.0005 2 2 2 0
+71 23 plr_leak3 FRDRMAUC_RMN
+Door frame, masonry, not caulked, minimum
+ 2.02365e-008 0.000195279 0.65 1 4 0 0 0.00017 2 2 2 0
+72 23 plr_leak3 FRDRMAUC_RMX
+Door frame, masonry, not caulked, maximum
+ 7.95785e-008 0.000574349 0.65 1 4 0 0 0.0005 2 2 2 0
+73 23 plr_leak3 FRDRWDCA_RAV
+Door frame, wood, caulked, best estimate
+ 2.23866e-009 3.4461e-005 0.65 1 4 0 0 3e-005 2 2 2 0
+74 23 plr_leak3 FRDRWDCA_RMN
+Door frame, wood, caulked, minimum
+ 5.5515e-010 1.1487e-005 0.65 1 4 0 0 1e-005 2 2 2 0
+75 23 plr_leak3 FRDRWDCA_RMX
+Door frame, wood, caulked, maximum
+ 2.23866e-009 3.4461e-005 0.65 1 4 0 0 3e-005 2 2 2 0
+76 23 plr_leak3 FRDRWDUC_RAV
+Door frame, wood, not caulked
+ 2.02365e-008 0.000195279 0.65 1 4 0 0 0.00017 2 2 2 0
+77 23 plr_leak3 FRDRWDUC_RMN
+Door frame, wood, not caulked, minimum
+ 5.3959e-009 6.89219e-005 0.65 1 4 0 0 6e-005 2 2 2 0
+78 23 plr_leak3 FRDRWDUC_RMX
+Door frame, wood, not caulked, maximum
+ 2.02365e-008 0.000195279 0.65 1 4 0 0 0.00017 2 2 2 0
+79 23 plr_leak1 FRDR_RAV
+General door frame - best estimate
+ 2.41753e-007 0.00137844 0.65 1 4 0.0012 0 0 2 2 2 0
+80 23 plr_leak1 FRDR_RMN
+General door frame - minimum value.
+ 3.13485e-008 0.000275688 0.65 1 4 0.00024 0 0 2 2 2 0
+81 23 plr_leak1 FRDR_RMX
+General door frame - maximum value.
+ 6.13691e-007 0.00287175 0.65 1 4 0.0025 0 0 2 2 2 0
+82 23 plr_leak3 FRWNMACA_RAV
+Window framing, masonry, caulked, best estimate
+ 1.43967e-008 0.000149331 0.65 1 4 0 0 0.00013 2 2 2 0
+83 23 plr_leak3 FRWNMACA_RMN
+Window framing, masonry, caulked, minimum
+ 1.1646e-008 0.000126357 0.65 1 4 0 0 0.00011 2 2 2 0
+84 23 plr_leak3 FRWNMACA_RMX
+Window framing, masonry, caulked, maximum
+ 2.64614e-008 0.000241227 0.65 1 4 0 0 0.00021 2 2 2 0
+85 23 plr_leak3 FRWNMAUC_RAV
+Window framing, masonry, uncaulked, best estimate
+ 1.11024e-007 0.000746654 0.65 1 4 0 0 0.00065 2 2 2 0
+86 23 plr_leak3 FRWNMAUC_RMN
+Window framing, masonry, uncaulked, minimum
+ 9.39769e-008 0.000654758 0.65 1 4 0 0 0.00057 2 2 2 0
+87 23 plr_leak3 FRWNMAUC_RMX
+Window framing, masonry, uncaulked, maximum
+ 1.99143e-007 0.00118316 0.65 1 4 0 0 0.00103 2 2 2 0
+88 23 plr_leak3 FRWNWDCA_RAV
+Window framing, wood, caulked, best estimate
+ 2.23866e-009 3.4461e-005 0.65 1 4 0 0 3e-005 2 2 2 0
+89 23 plr_leak3 FRWNWDCA_RMN
+Window framing, wood, caulkded, minimum
+ 2.23866e-009 3.4461e-005 0.65 1 4 0 0 3e-005 2 2 2 0
+90 23 plr_leak3 FRWNWDCA_RMX
+Window framin,g wood, caulked, maximum
+ 4.28119e-009 5.74349e-005 0.65 1 4 0 0 5e-005 2 2 2 0
+91 23 plr_leak3 FRWNWDUC_RAV
+Window framing, wood, uncaulked, best estimate
+ 2.02365e-008 0.000195279 0.65 1 4 0 0 0.00017 2 2 2 0
+92 23 plr_leak3 FRWNWDUC_RMN
+Window framing, wood, uncaulked, minimum
+ 1.7264e-008 0.000172305 0.65 1 4 0 0 0.00015 2 2 2 0
+93 23 plr_leak3 FRWNWDUC_RMX
+Window framing, wood, uncaulked, maximum
+ 3.64034e-008 0.000310149 0.65 1 4 0 0 0.00027 2 2 2 0
+94 23 plr_leak2 JTCEWL_RAV
+Ceiling-wall joint - best estimate
+ 1.7264e-008 0.000172305 0.65 1 4 0 0.00015 0 2 2 2 0
+95 23 plr_leak2 JTCEWL_RMN
+Ceiling-wall joint - minimum value
+ 1.00806e-009 1.83792e-005 0.65 1 4 0 1.6e-005 0 2 2 2 0
+96 23 plr_leak2 JTCEWL_RMX
+Ceiling-wall joint - maximum value
+ 3.30156e-008 0.000287175 0.65 1 4 0 0.00025 0 2 2 2 0
+97 23 plr_leak2 JTFLWLCA_RAV
+Joints, sole plate, floor/wall, caulked, best estimate
+ 7.77392e-009 9.18959e-005 0.65 1 4 0 8e-005 0 2 2 2 0
+98 23 plr_leak2 JTFLWLCA_RMN
+Joints, sole plate, floor/wall, caulked, minimum
+ 3.85332e-010 8.61524e-006 0.65 1 4 0 7.5e-006 0 2 2 2 0
+99 23 plr_leak2 JTFLWLCA_RMX
+Joints, sole plate, floor/wall, caulked, maximum
+ 1.30059e-008 0.000137844 0.65 1 4 0 0.00012 0 2 2 2 0
+100 23 plr_leak2 JTFLWLUC_RAV
+Joints: sole plate, floor/wall, uncaulked - best estimate
+ 5.99507e-008 0.000459479 0.65 1 4 0 0.0004 0 2 2 2 0
+101 23 plr_leak2 JTFLWLUC_RMN
+Joints: sole plate, floor/wall, uncaulked - minimum value
+ 3.02197e-009 4.36505e-005 0.65 1 4 0 3.8e-005 0 2 2 2 0
+102 23 plr_leak2 JTFLWLUC_RMX
+Joints: sole plate, floor/wall, uncaulked - maximum value
+ 9.18893e-008 0.000643271 0.65 1 4 0 0.00056 0 2 2 2 0
+103 23 plr_leak1 PECA_RAV
+Piping/Plumbing/Wiring penetrations, caulked - best estimate
+ 2.48724e-008 0.00022974 0.65 1 4 0.0002 0 0 2 2 2 0
+104 23 plr_leak1 PECA_RMN
+Piping/Plumbing/Wiring penetrations, caulked - minimum value
+ 1.03191e-008 0.00011487 0.65 1 4 1e-004 0 0 2 2 2 0
+105 23 plr_leak1 PECA_RMX
+Piping/Plumbing/Wiring penetrations - maximum value
+ 2.48724e-008 0.00022974 0.65 1 4 0.0002 0 0 2 2 2 0
+106 23 plr_leak1 PEECCA_RAV
+Electrical outlets/switches, gaskets, best estimate
+ 9.28776e-010 1.72305e-005 0.65 1 4 1.5e-005 0 0 2 2 2 0
+107 23 plr_leak1 PEECCA_RMN
+Electrical outlets/switches, gaskets, minimum
+ 4.18225e-010 9.18959e-006 0.65 1 4 8e-006 0 0 2 2 2 0
+108 23 plr_leak1 PEECCA_RMX
+Electrical outlets/switches, gaskets, maximum
+ 5.06045e-008 0.000402044 0.65 1 4 0.00035 0 0 2 2 2 0
+109 23 plr_leak1 PEECUC_RAV
+Electrical outlets/switches, no gaskets, best estimate
+ 3.30156e-008 0.000287175 0.65 1 4 0.00025 0 0 2 2 2 0
+110 23 plr_leak1 PEECUC_RMN
+Electrical outlets/switches, no gaskets, minimum
+ 4.28119e-009 5.74349e-005 0.65 1 4 5e-005 0 0 2 2 2 0
+111 23 plr_leak1 PEECUC_RMX
+Electrical outlets/switches, no gaskets, maximum
+ 1.04561e-007 0.000712193 0.65 1 4 0.00062 0 0 2 2 2 0
+112 23 plr_leak1 PEUC_RAV
+Piping/Plumbing/Wiring/ penetrations,uncaulked - best estimate
+ 1.00299e-007 0.000689219 0.65 1 4 0.0006 0 0 2 2 2 0
+113 23 plr_leak1 PEUC_RMN
+Piping/Plumbing/Wiring penetrations, uncaluked - minimum value
+ 2.48724e-008 0.00022974 0.65 1 4 0.0002 0 0 2 2 2 0
+114 23 plr_leak1 PEUC_RMX
+Piping/Plumbing/Wiring penetrations, uncaulked - maximum value
+ 5.82704e-007 0.00275688 0.65 1 4 0.0024 0 0 2 2 2 0
+115 23 plr_leak1 VEBADACL_RAV
+Vents, bathroom with damper closed, best estimate
+ 1.9181e-007 0.0011487 0.65 1 4 0.001 0 0 2 2 2 0
+116 23 plr_leak1 VEBADACL_RMN
+Vents, bathroom with damper closed, minimum
+ 3.30156e-008 0.000287175 0.65 1 4 0.00025 0 0 2 2 2 0
+117 23 plr_leak1 VEBADACL_RMX
+Vents, bathroom with damper closed, maximum
+ 4.62327e-007 0.0022974 0.65 1 4 0.002 0 0 2 2 2 0
+118 23 plr_leak1 VEBADAOP_RAV
+Vents, bathroom with damper open, best estimate
+ 4.62327e-007 0.0022974 0.65 1 4 0.002 0 0 2 2 2 0
+119 23 plr_leak1 VEBADAOP_RMN
+Vents, bathroom with damper open, minimum
+ 1.02425e-007 0.000700706 0.65 1 4 0.00061 0 0 2 2 2 0
+120 23 plr_leak1 VEBADAOP_RMX
+Vents, bathroom with damper open, maximum
+ 5.21778e-007 0.00252714 0.65 1 4 0.0022 0 0 2 2 2 0
+121 23 plr_leak1 VECS_R
+Crawl space, 200 mm by 400 mm vent, best estimate
+ 4.92569e-006 0.0148182 0.65 1 4 0.0129 0 0 2 2 2 0
+122 23 plr_leak1 VEDYDANO_RAV
+Vents, dryer without damper, best estimate
+ 3.20902e-007 0.00172305 0.65 1 4 0.0015 0 0 2 2 2 0
+123 23 plr_leak1 VEDYDANO_RMN
+Vents, dryer without damper, minimum
+ 2.41753e-007 0.00137844 0.65 1 4 0.0012 0 0 2 2 2 0
+124 23 plr_leak1 VEDYDANO_RMX
+Vents, dryer without damper
+ 9.06654e-007 0.00390557 0.65 1 4 0.0034 0 0 2 2 2 0
+125 23 plr_leak1 VEDYDAYE_RAV
+Vents, dryer with damper, best estimate
+ 4.1612e-008 0.00034461 0.65 1 4 0.0003 0 0 2 2 2 0
+126 23 plr_leak1 VEDYDAYE_RMN
+Vents, dryer with damper, minimum
+ 3.98594e-008 0.000333123 0.65 1 4 0.00029 0 0 2 2 2 0
+127 23 plr_leak1 VEDYDAYE_RMX
+Vents, dryer with damper, maximum
+ 1.21974e-007 0.000804089 0.65 1 4 0.0007 0 0 2 2 2 0
+128 23 plr_leak1 VEKIDACA_RAV
+Vents, kitchen tight gasket, best estimate
+ 1.03191e-008 0.00011487 0.65 1 4 1e-004 0 0 2 2 2 0
+129 23 plr_leak1 VEKIDACL_RAV
+Vents, kitchen with damper closed, best estimate
+ 7.95785e-008 0.000574349 0.65 1 4 0.0005 0 0 2 2 2 0
+130 23 plr_leak1 VEKIDACL_RMN
+Vents, kitchen with damper closed, minimum
+ 1.03191e-008 0.00011487 0.65 1 4 1e-004 0 0 2 2 2 0
+131 23 plr_leak1 VEKIDACL_RMX
+Vents, kitchen with damper closed, maximum
+ 1.21974e-007 0.000804089 0.65 1 4 0.0007 0 0 2 2 2 0
+132 23 plr_leak1 VEKIDAOP_RAV
+Vents, kitchen with damper open, best estimate
+ 1.11436e-006 0.00459479 0.65 1 4 0.004 0 0 2 2 2 0
+133 23 plr_leak1 VEKIDAOP_RMN
+Vents, kitchen with damper open, minimum
+ 2.93997e-007 0.00160818 0.65 1 4 0.0014 0 0 2 2 2 0
+134 23 plr_leak1 VEKIDAOP_RMX
+Vents, kitchen with damper open, maximum
+ 2.34977e-006 0.00827063 0.65 1 4 0.0072 0 0 2 2 2 0
+135 23 plr_leak2 WCCASEWE_RAV
+Windows, casement with weatherstripping, best estimate
+ 1.6865e-009 2.75688e-005 0.65 1 4 0 2.4e-005 0 2 2 2 0
+136 23 plr_leak2 WCCASEWE_RMN
+Windows, casement with weatherstripping, minimum value
+ 5.5515e-010 1.1487e-005 0.65 1 4 0 1e-005 0 2 2 2 0
+137 23 plr_leak2 WCCASEWE_RMX
+Windows, casement with weatherstripping, maximum value
+ 4.1612e-008 0.00034461 0.65 1 4 0 0.0003 0 2 2 2 0
+138 23 plr_leak1 WHGS_RAV
+Gas water heater, best estimate
+ 4.62327e-007 0.0022974 0.65 1 4 0.002 0 0 2 2 2 0
+139 23 plr_leak1 WHGS_RMN
+Gas water heater, minimum
+ 3.20902e-007 0.00172305 0.65 1 4 0.0015 0 0 2 2 2 0
+140 23 plr_leak1 WHGS_RMX
+Gas water heater, maximum
+ 6.13691e-007 0.00287175 0.65 1 4 0.0025 0 0 2 2 2 0
+141 23 plr_leak3 WLCS_RAV
+Crawl space, general (area for exposed wall), best estimate
+ 1.9181e-007 0.0011487 0.65 1 4 0 0 0.001 2 2 2 0
+142 23 plr_leak3 WLCS_RMN
+Crawl space, general (area for exposed wall), minimum
+ 1.44501e-007 0.000918959 0.65 1 4 0 0 0.0008 2 2 2 0
+143 23 plr_leak3 WLCS_RMX
+Crawl space, general (area for exposed wall), maximum
+ 3.76154e-007 0.00195279 0.65 1 4 0 0 0.0017 2 2 2 0
+144 23 plr_leak3 WLEXCC_RAV
+Walls (exterior), cast-in-place concrete, best estimate
+ 4.28119e-009 5.74349e-005 0.65 1 4 0 0 5e-005 2 2 2 0
+145 23 plr_leak3 WLEXCC_RMN
+Wall (Exterior), Cast-in-place concrete - minimum value.
+ 2.24491e-010 5.62862e-006 0.65 1 4 0 0 4.9e-006 2 2 2 0
+146 23 plr_leak3 WLEXCC_RMX
+Walls (Exterior), Cast-in-place  - maximum value.
+ 2.17591e-008 0.000206766 0.65 1 4 0 0 0.00018 2 2 2 0
+147 23 plr_leak3 WLEXPC_RAV
+Walls (Exterior), Precast concrete panel, best estimate
+ 1.30059e-008 0.000137844 0.65 1 4 0 0 0.00012 2 2 2 0
+148 23 plr_leak3 WLEXPC_RMN
+Walls (Exterior), Precast concrete panel, minimum
+ 2.05096e-009 3.21636e-005 0.65 1 4 0 0 2.8e-005 2 2 2 0
+149 23 plr_leak3 WLEXPC_RMX
+Walls (Exterior), Precast concrete, maximum
+ 1.9484e-008 0.000189535 0.65 1 4 0 0 0.000165 2 2 2 0
+150 23 plr_leak2 WNCASENW_RAV
+Window, casement, not weatherstripped, best estimate
+ 2.05096e-009 3.21636e-005 0.65 1 4 0 2.8e-005 0 2 2 2 0
+151 23 plr_leak2 WNDBNWSM_RAV
+Windows, double hung with storm, not weatherstripped, best estimat
+ 9.92777e-009 0.000111424 0.65 1 4 0 9.7e-005 0 2 2 2 0
+152 23 plr_leak2 WNDBNWSM_RMN
+Windows, double hung with storm, not weatherstripped, minimum
+ 4.06502e-009 5.51375e-005 0.65 1 4 0 4.8e-005 0 2 2 2 0
+153 23 plr_leak2 WNDBNWSM_RMX
+Windows, double hung with storm, not weatherstripped, maximum
+ 2.02365e-008 0.000195279 0.65 1 4 0 0.00017 0 2 2 2 0
+154 23 plr_leak2 WNDBNW_RAV
+Windows, double hung, not weatherstripped, best estimate
+ 3.30156e-008 0.000287175 0.65 1 4 0 0.00025 0 2 2 2 0
+155 23 plr_leak2 WNDBNW_RMN
+Windows, double hung, not weatherstripped, minimum
+ 8.52128e-009 9.87881e-005 0.65 1 4 0 8.6e-005 0 2 2 2 0
+156 23 plr_leak2 WNDBNW_RMX
+Windows, double hung, not weathestripped, maximum
+ 1.02425e-007 0.000700706 0.65 1 4 0 0.00061 0 2 2 2 0
+157 23 plr_leak2 WNDBWESM_RAV
+Window:Double hung w/weatherstripping,w/storm - best estimate
+ 7.6508e-009 9.07472e-005 0.65 1 4 0 7.9e-005 0 2 2 2 0
+158 23 plr_leak2 WNDBWESM_RMN
+Window:Double hung w/weatherstripping,w/storm - minimum value
+ 3.63999e-009 5.05427e-005 0.65 1 4 0 4.4e-005 0 2 2 2 0
+159 23 plr_leak2 WNDBWESM_RMX
+Window:Double hung w/weatherstripping,w/storm - maximum value
+ 1.03191e-008 0.00011487 0.65 1 4 0 1e-004 0 2 2 2 0
+160 23 plr_leak2 WNDBWE_RAV
+Window:Double hung w/ weatherstripping - best estimate
+ 5.9729e-009 7.46654e-005 0.65 1 4 0 6.5e-005 0 2 2 2 0
+161 23 plr_leak2 WNDBWE_RMN
+Window:Double hung w/weatherstripping - minimum value
+ 1.3381e-009 2.2974e-005 0.65 1 4 0 2e-005 0 2 2 2 0
+162 23 plr_leak2 WNDBWE_RMX
+Window:Double hung w/weatherstripping - maximum value
+ 2.33047e-008 0.000218253 0.65 1 4 0 0.00019 0 2 2 2 0
+163 23 plr_leak1 WNJA_RAV
+Windows, jalousie, best estimate (per louver)
+ 4.84127e-008 0.00038826 0.65 1 4 0.000338 0 0 2 2 2 0
+164 23 plr_leak2 WNSISHWE_RAV
+Window, single hung, weatherstripped, best estimate
+ 8.64724e-009 9.99368e-005 0.65 1 4 0 8.7e-005 0 2 2 2 0
+165 23 plr_leak2 WNSISHWE_RMN
+Window, single hung, weatherstripped, minimum
+ 5.62521e-009 7.12193e-005 0.65 1 4 0 6.2e-005 0 2 2 2 0
+166 23 plr_leak2 WNSISHWE_RMX
+Window, single hung, weatherstripped, maximum
+ 1.35586e-008 0.000142439 0.65 1 4 0 0.000124 0 2 2 2 0
+167 23 plr_leak2 WNSISLAL_RAV
+Window, single horizontal slider, aluminum, best estimate
+ 7.77392e-009 9.18959e-005 0.65 1 4 0 8e-005 0 2 2 2 0
+168 23 plr_leak2 WNSISLAL_RMN
+Window, single horizontal slider, aluminum, minimum
+ 1.95844e-009 3.10149e-005 0.65 1 4 0 2.7e-005 0 2 2 2 0
+169 23 plr_leak2 WNSISLAL_RMX
+Window, single horizontal slider, aluminum, maximum
+ 2.58233e-008 0.000236632 0.65 1 4 0 0.000206 0 2 2 2 0
+170 23 plr_leak2 WNSISLWD_RAV
+Window, single horizontal slider, wood, best estimate
+ 3.63999e-009 5.05427e-005 0.65 1 4 0 4.4e-005 0 2 2 2 0
+171 23 plr_leak2 WNSISLWD_RMN
+Wood, single horizontal slider, wood, minimum
+ 1.95844e-009 3.10149e-005 0.65 1 4 0 2.7e-005 0 2 2 2 0
+172 23 plr_leak2 WNSISLWD_RMX
+Window, single horizontal slider, wood, maximum
+ 1.01883e-008 0.000113721 0.65 1 4 0 9.9e-005 0 2 2 2 0
+173 23 plr_leak2 WNSISLWE_RAV
+Window, single horizontal slider, weatherstripped, best estimate
+ 6.20712e-009 7.69628e-005 0.65 1 4 0 6.7e-005 0 2 2 2 0
+174 23 plr_leak2 WNSISLWE_RMN
+Window, single horizontal slider, weatherstripped, minimum
+ 1.3381e-009 2.2974e-005 0.65 1 4 0 2e-005 0 2 2 2 0
+175 23 plr_leak2 WNSISLWE_RMX
+Window, single horizontal slider, weatherstripped, maximum
+ 2.58233e-008 0.000236632 0.65 1 4 0 0.000206 0 2 2 2 0
+176 23 plr_leak2 WNSLALWE_RAV
+Window:Double horizontal slider,aluminum w/weatherstrip-best est.
+ 6.80086e-009 8.27063e-005 0.65 1 4 0 7.2e-005 0 2 2 2 0
+177 23 plr_leak2 WNSLALWE_RMN
+Window:Double horizontal slider,aluminum w/weatherstrip-minimum 
+ 5.16865e-009 6.66245e-005 0.65 1 4 0 5.8e-005 0 2 2 2 0
+178 23 plr_leak2 WNSLALWE_RMX
+Window:Double horizontl slider,aluminum w/weatherstrip-maximum val
+ 7.77392e-009 9.18959e-005 0.65 1 4 0 8e-005 0 2 2 2 0
+179 23 plr_leak2 WNSLNW_RAV
+Window,Double horizontal slider w/o weatherstripping,best estimate
+ 1.1646e-008 0.000126357 0.65 1 4 0 0.00011 0 2 2 2 0
+180 23 plr_leak2 WNSLNW_RMN
+Window,Double horizontal slider w/o weatherstripped minimum value
+ 6.74501e-011 2.18253e-006 0.65 1 4 0 1.9e-006 0 2 2 2 0
+181 23 plr_leak2 WNSLNW_RMX
+Window,Double horizontal slider w/o weatherstripped maximum value
+ 4.87765e-008 0.000390557 0.65 1 4 0 0.00034 0 2 2 2 0
+182 23 plr_leak2 WNSLWDWE_RAV
+Window:Double horizontal slider,wood w/weatherstrip-best estimate
+ 4.83172e-009 6.31784e-005 0.65 1 4 0 5.5e-005 0 2 2 2 0
+183 23 plr_leak2 WNSLWDWE_RMN
+Window:Double horizontal slider,wood w/weatherstrip-minimum value
+ 9.28776e-010 1.72305e-005 0.65 1 4 0 1.5e-005 0 2 2 2 0
+184 23 plr_leak2 WNSLWDWE_RMX
+Window:Double horizontal slider,wood w/weatherstrip-maximum value
+ 2.05391e-008 0.000197576 0.65 1 4 0 0.000172 0 2 2 2 0
+-999 end library

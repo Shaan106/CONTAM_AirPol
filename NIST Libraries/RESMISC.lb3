@@ -1,0 +1,241 @@
+Assorted residential airtightness values used in previous studies.
+flow|duct elements:
+79
+1 23 plr_leak3 CECS_R
+Crawl space ceiling
+ 4.28119e-009 5.74349e-005 0.65 1 4 0 0 5e-005 2 2 2 0
+2 23 plr_leak3 CECS_RM
+Crawl space ceiling, manufactured home
+ 1.48196e-008 0.000152777 0.65 1 4 0 0 0.000133 2 2 2 0
+3 23 plr_leak3 CEIN_R
+Ceiling, interior
+ 7.6508e-009 9.07472e-005 0.65 1 4 0 0 7.9e-005 2 2 2 0
+4 23 plr_leak3 CE_RAV
+General ceiling, typical value
+ 2.17591e-008 0.000206766 0.65 1 4 0 0 0.00018 2 2 2 0
+5 23 plr_leak3 CE_RMN
+General ceiling, tight value
+ 7.6508e-009 9.07472e-005 0.65 1 4 0 0 7.9e-005 2 2 2 0
+6 23 plr_leak1 CPEN_RAV
+HVAC ceiling penetration, typical value
+ 7.95785e-008 0.000574349 0.65 1 4 0.0005 0 0 2 2 2 0
+7 23 plr_leak1 CPEN_RMN
+HVAC ceiling penetration, tight value
+ 1.03191e-008 0.00011487 0.65 1 4 0.0001 0 0 2 2 2 0
+8 23 plr_leak1 DRAT_RAV
+Attic door, typical value
+ 7.7348e-007 0.0034461 0.65 1 4 0.003 0 0 2 2 2 0
+9 23 plr_leak1 DRAT_RMN
+Attic door, tight value
+ 4.04457e-007 0.00206766 0.65 1 4 0.0018 0 0 2 2 2 0
+10 23 plr_leak1 DRBACL_RM
+Bathroom door, closed, including frame and undercut, manuf. home
+ 1.62262e-005 0.037907 0.65 1 4 0.033 0 0 2 2 2 0
+11 23 plr_leak1 DRBAOP_RM
+Bathroom door, open, manufactured home
+ 0.00171864 1.49331 0.65 1 4 1.3 0 0 0 2 2 0
+12 23 plr_leak2 DRCTCL_RAV
+Closet door, closed, typical value
+ 9.02744e-009 0.000103383 0.65 1 4 0 9e-005 0 2 2 2 0
+13 23 plr_leak2 DRCTCL_RMN
+Closet door, closed, tight value
+ 1.77619e-009 2.87175e-005 0.65 1 4 0 2.5e-005 0 2 2 2 0
+14 23 plr_leak1 DRCTFR_RAV
+Closet door frame, typical value
+ 6.13691e-007 0.00287175 0.65 1 4 0.0025 0 0 2 2 2 0
+15 23 plr_leak1 DRCTFR_RMN
+Closet door frame, tight value
+ 2.41753e-007 0.00137844 0.65 1 4 0.0012 0 0 2 2 2 0
+16 23 plr_leak3 DREXFRWD_RAV
+Door, exterior, wood, frame, typical value
+ 2.02365e-008 0.000195279 0.65 1 4 0 0 0.00017 2 2 2 0
+17 23 plr_leak3 DREXFRWD_RMN
+Door, exterior, wood, frame, tight value
+ 2.23866e-009 3.4461e-005 0.65 1 4 0 0 3e-005 2 2 2 0
+18 23 plr_leak1 DREXSI_RAV
+Door, exterior, single, typical value
+ 4.91862e-007 0.00241227 0.65 1 4 0.0021 0 0 2 2 2 0
+19 23 plr_leak1 DREXSI_RMN
+Door, exterior, single, tight value
+ 2.41753e-007 0.00137844 0.65 1 4 0.0012 0 0 2 2 2 0
+20 23 plr_leak1 DREXSLGL_R
+Door, exterior, sliding glass
+ 4.1612e-008 0.00034461 0.65 1 4 0.0003 0 0 2 2 2 0
+21 23 plr_leak1 DREXSLGL_RAV
+Door, exterior, sliding glass, typical value
+ 5.21778e-007 0.00252714 0.65 1 4 0.0022 0 0 2 2 2 0
+22 23 plr_leak1 DREXSLGL_RMN
+Door, exterior, sliding glass, tight value
+ 4.1612e-008 0.00034461 0.65 1 4 0.0003 0 0 2 2 2 0
+23 23 plr_leak1 DREX_R
+Door, exterior
+ 1.00299e-007 0.000689219 0.65 1 4 0.0006 0 0 2 2 2 0
+24 23 plr_leak1 DREX_RM
+Door, exterior, manufactured home
+ 5.99507e-008 0.000459479 0.65 1 4 0.0004 0 0 2 2 2 0
+25 23 plr_leak3 DRFREX_R
+Exterior door frame
+ 2.23866e-009 3.4461e-005 0.65 1 4 0 0 3e-005 2 2 2 0
+26 23 plr_leak2 DRGACL_RAV
+Garage door, closed, typical value
+ 3.74531e-009 5.16914e-005 0.65 1 4 0 4.5e-005 0 2 2 2 0
+27 23 plr_leak2 DRGACL_RMN
+Garage door, closed, tight value
+ 2.33379e-009 3.56096e-005 0.65 1 4 0 3.1e-005 0 2 2 2 0
+28 23 plr_leak3 DRGAFRWD_RAV
+Garage door frame, wood, typical value
+ 2.02365e-008 0.000195279 0.65 1 4 0 0 0.00017 2 2 2 0
+29 23 plr_leak3 DRGAFRWD_RMN
+Garage door frame, wood, tight value
+ 2.23866e-009 3.4461e-005 0.65 1 4 0 0 3e-005 2 2 2 0
+30 23 plr_leak1 DRINCL_R
+Door, interior closed, including frame and undercut
+ 1.14072e-005 0.0287175 0.65 1 4 0.025 0 0 2 2 2 0
+31 23 plr_leak1 DRINCL_RAV
+Door, interior, closed, typical value
+ 5.46479e-006 0.0160818 0.65 1 4 0.014 0 0 2 2 2 0
+32 23 plr_leak1 DRINCL_RM
+Interior (bedr) dr, closed, including frame & undercut, manu home
+ 2.13731e-005 0.0470966 0.65 1 4 0.041 0 0 2 2 2 0
+33 23 plr_leak1 DRINCL_RMN
+Door, interior, closed, tight value
+ 2.47472e-006 0.00861524 0.65 1 4 0.0075 0 0 2 2 2 0
+34 23 plr_leak1 DRINOP_RAV
+Door, interior, open, typical value
+ 0.0031589 2.41227 0.65 1 4 2.1 0 0 0 2 2 0
+35 23 plr_leak1 DRINOP_RM
+Interior (bedroom) door, open, manufactured home
+ 0.00223687 1.83792 0.65 1 4 1.6 0 0 0 2 2 0
+36 23 plr_leak1 DWHA_RAV
+Hall doorway, typical value
+ 0.00374232 2.75688 0.65 1 4 2.4 0 0 0 2 2 0
+37 23 plr_leak3 FLAT_R
+Attic floow
+ 4.28119e-009 5.74349e-005 0.65 1 4 0 0 5e-005 2 2 2 0
+38 23 plr_leak3 FLAT_RM
+Attic floor, manufactured home
+ 6.20712e-009 7.69628e-005 0.65 1 4 0 0 6.7e-005 2 2 2 0
+39 23 plr_leak2 ITGAEX_R
+Wall-floor and wall-ceiling interface, exterior garage wall
+ 2.48724e-008 0.00022974 0.65 1 4 0 0.0002 0 2 2 2 0
+40 23 plr_leak2 JTCEWL_R
+Ceiling-wall joint
+ 4.28119e-009 5.74349e-005 0.65 1 4 0 5e-005 0 2 2 2 0
+41 23 plr_leak2 JTCEWL_RAV
+Ceiling-wall joint, typical value
+ 1.7264e-008 0.000172305 0.65 1 4 0 0.00015 0 2 2 2 0
+42 23 plr_leak2 JTCEWL_RM
+Ceiling-wall joint, manufactured home
+ 2.52653e-009 3.7907e-005 0.65 1 4 0 3.3e-005 0 2 2 2 0
+43 23 plr_leak2 JTCEWL_RMN
+Ceiling-joint joint, tight value
+ 4.28119e-009 5.74349e-005 0.65 1 4 0 5e-005 0 2 2 2 0
+44 23 plr_leak2 JTCR_R
+Wall-wall corner joint
+ 4.28119e-009 5.74349e-005 0.65 1 4 0 5e-005 0 2 2 2 0
+45 23 plr_leak2 JTCR_RM
+Wall-wall corner joint, manufactured home
+ 2.52653e-009 3.7907e-005 0.65 1 4 0 3.3e-005 0 2 2 2 0
+46 23 plr_leak2 JTFLWL_R
+Floor-wall joint
+ 7.77392e-009 9.18959e-005 0.65 1 4 0 8e-005 0 2 2 2 0
+47 23 plr_leak2 JTFLWL_RAV
+Floor-wall joint, typical value
+ 5.99507e-008 0.000459479 0.65 1 4 0 0.0004 0 2 2 2 0
+48 23 plr_leak2 JTFLWL_RM
+Floor-wall joint, manufactured home
+ 4.60982e-009 6.0881e-005 0.65 1 4 0 5.3e-005 0 2 2 2 0
+49 23 plr_leak2 JTFLWL_RMN
+Floor-wall joint, tight value
+ 7.77392e-009 9.18959e-005 0.65 1 4 0 8e-005 0 2 2 2 0
+50 23 plr_leak2 JTWLWL_RAV
+Wall-wall joint, typical value
+ 1.7264e-008 0.000172305 0.65 1 4 0 0.00015 0 2 2 2 0
+51 23 plr_leak2 JTWLWL_RMN
+Wall-wall joint, tight value
+ 4.28119e-009 5.74349e-005 0.65 1 4 0 5e-005 0 2 2 2 0
+52 23 plr_leak1 PEDW_R
+Duct penetration in crawl space ceiling or attic floow
+ 1.03191e-008 0.00011487 0.65 1 4 0.0001 0 0 2 2 2 0
+53 23 plr_leak1 PEEC_RAV
+Electrical outlet, typical value
+ 3.30156e-008 0.000287175 0.65 1 4 0.00025 0 0 2 2 2 0
+54 23 plr_leak1 PEEC_RMN
+Electrical outlet, tight value
+ 4.28119e-009 5.74349e-005 0.65 1 4 5e-005 0 0 2 2 2 0
+55 23 plr_leak1 PEPL_RAV
+Plumbing penetration, interior, typical value
+ 1.00299e-007 0.000689219 0.65 1 4 0.0006 0 0 2 2 2 0
+56 23 plr_leak1 PEPL_RMN
+Plumbing penetration, interior, tight value
+ 2.48724e-008 0.00022974 0.65 1 4 0.0002 0 0 2 2 2 0
+57 23 plr_leak3 RFGA_RAV
+Garage roof, typical value
+ 2.17591e-008 0.000206766 0.65 1 4 0 0 0.00018 2 2 2 0
+58 23 plr_leak3 RFGA_RMN
+Garage roof, tight value
+ 7.6508e-009 9.07472e-005 0.65 1 4 0 0 7.9e-005 2 2 2 0
+59 23 plr_leak3 VEAT_RAV
+Attic vent, based on attic floor area, typical value
+ 8.84038e-007 0.00382861 0.65 1 4 0 0 0.003333 2 2 2 0
+60 23 plr_leak1 VEBA_RAV
+Bathroom exhaust vent, typical value
+ 4.62327e-007 0.0022974 0.65 1 4 0.002 0 0 2 2 2 0
+61 23 plr_leak1 VEBA_RMN
+Bathroom exhaust vent, tight value
+ 1.9181e-007 0.0011487 0.65 1 4 0.001 0 0 2 2 2 0
+62 23 plr_leak3 VECS_R
+Crawl space vent, based on floor area
+ 2.13123e-006 0.00765837 0.65 1 4 0 0 0.006667 2 2 2 0
+63 23 plr_leak1 VEKI_RAV
+Kitchen exhaust vent, typical value
+ 1.11436e-006 0.00459479 0.65 1 4 0.004 0 0 2 2 2 0
+64 23 plr_leak1 VEKI_RMN
+Kitchen exhaust vent, tight value
+ 7.95785e-008 0.000574349 0.65 1 4 0.0005 0 0 2 2 2 0
+65 23 plr_leak3 WLEX_R
+Wall, exterior
+ 5.5515e-010 1.1487e-005 0.65 1 4 0 0 1e-005 2 2 2 0
+66 23 plr_leak3 WLEX_RM
+Wall, exterior, manufactured home
+ 3.33933e-010 7.69628e-006 0.65 1 4 0 0 6.7e-006 2 2 2 0
+67 23 plr_leak3 WLGAEX_R
+Exterior garage wall
+ 3.22525e-009 4.59479e-005 0.65 1 4 0 0 4e-005 2 2 2 0
+68 23 plr_leak3 WLIN_R
+Wall, interior
+ 2.48724e-008 0.00022974 0.65 1 4 0 0 0.0002 2 2 2 0
+69 23 plr_leak3 WLIN_RAV
+Wall, interior, typical value
+ 2.48724e-008 0.00022974 0.65 1 4 0 0 0.0002 2 2 2 0
+70 23 plr_leak3 WLIN_RM
+Wall, interior, manufactured home
+ 2.48724e-008 0.00022974 0.65 1 4 0 0 0.0002 2 2 2 0
+71 23 plr_leak1 WN1_RM
+Window 1, manufactured home
+ 2.97001e-008 0.000264201 0.65 1 4 0.00023 0 0 2 2 2 0
+72 23 plr_leak1 WN2_RM
+Window 2, manufactured home
+ 2.64614e-008 0.000241227 0.65 1 4 0.00021 0 0 2 2 2 0
+73 23 plr_leak1 WN3_RM
+Window 3, manufactured home
+ 3.64034e-008 0.000310149 0.65 1 4 0.00027 0 0 2 2 2 0
+74 23 plr_leak1 WN4_RM
+Window 4, manufactured home
+ 9.02744e-009 0.000103383 0.65 1 4 9e-005 0 0 2 2 2 0
+75 23 plr_leak2 WNDB_RAV
+Window, double hung, typical value
+ 3.30156e-008 0.000287175 0.65 1 4 0 0.00025 0 2 2 2 0
+76 23 plr_leak2 WNDB_RMN
+Window, double hung, tight value
+ 5.9729e-009 7.46654e-005 0.65 1 4 0 6.5e-005 0 2 2 2 0
+77 23 plr_leak3 WNFRWD_RAV
+Window frame, wood, typical value
+ 2.02365e-008 0.000195279 0.65 1 4 0 0 0.00017 2 2 2 0
+78 23 plr_leak3 WNFRWD_RMN
+Window frame, wood, tight value
+ 2.23866e-009 3.4461e-005 0.65 1 4 0 0 3e-005 2 2 2 0
+79 23 plr_leak2 WN_R
+Window
+ 2.48724e-008 0.00022974 0.65 1 4 0 0.0002 0 2 2 2 0
+-999 end library
