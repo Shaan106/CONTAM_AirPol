@@ -1,15 +1,43 @@
-Project:  C:\Users\Shaan\Desktop\Air pol research\Ballabhgarh Simulations\House 1 - common.prj
+Project:  C:\Users\Shaan\Desktop\CONTAM_AirPol-main\House 1 - common.prj
 
-1	contaminants
+4	contaminants
 Name	EffDens	MeanDiameter
+CO	     0	     0
+NO2	     0	     0
+PM2.5	  2000	2.5e-06
 SO2	     0	     0
+
+Filter challenge summary.
+3	filters
+path	CO	NO2	PM2.5	SO2	element
+5p	2.666260e+01	3.396665e-01	2.383552e-11	7.702383e-02	test80%
+--	5.332520e+00	6.793329e-02	4.767105e-12	1.540476e-02	downstream
+14p	5.468084e+00	6.966027e-02	4.888294e-12	1.579639e-02	test80%
+--	1.093617e+00	1.393205e-02	9.776587e-13	3.159277e-03	downstream
+16p	4.468746e-01	5.692930e-03	3.994918e-13	1.290946e-03	test80%
+--	8.937492e-02	1.138586e-03	7.989835e-14	2.581893e-04	downstream
+
+Filter loading summary.
+3	filters
+path	CO	NO2	PM2.5	SO2	element	ns
+5p	2.133008e+01	2.717332e-01	1.906842e-11	6.161906e-02	test80%	0
+14p	4.374467e+00	5.572821e-02	3.910635e-12	1.263711e-02	test80%	0
+16p	3.574997e-01	4.554344e-03	3.195934e-13	1.032757e-03	test80%	0
+
+Filter breakthrough summary.
+0	filters
+path	element	nc
+	contaminant	date	time	efficiency
 
 Interactions with ambient.
 contaminant	mass from	mass to [kg]
-SO2	1.11949e+06	1.11818e+06
+CO	5.49064e+00	1.11615e+00
+NO2	6.99476e-02	1.42187e-02
+PM2.5	4.90845e-12	9.97804e-13
+SO2	1.58615e-02	3.22441e-03
 
 Simulation time:
-2592000	seconds
-720	hours
-30	days
+31536000	seconds
+8760	hours
+365	days
 
